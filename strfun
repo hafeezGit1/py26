@@ -1,0 +1,4 @@
+str1 = "Hi Hafeez" 
+str2 = "the time is 8 15 pm"
+result = str1 +str2
+print(result)
